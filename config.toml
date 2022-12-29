@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-relativeURLs: "true"
+relativeURLs = "true"
 title = "Jimmy Ma's IFPS"
 
 # css plugins
