@@ -3,7 +3,8 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+relativeURLs: "true"
+title = "Jimmy Ma's IFPS"
 
 # css plugins
 [[params.plugins.css]]
